@@ -1,6 +1,5 @@
 pragma solidity >=0.5.0;
 
-import 'https://github.com/jhoang2/safe/blob/main/IUniswapV2Pair.sol';
 
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/math/SafeMath.sol";
 
